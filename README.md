@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Piyush Hatwar
 
-<!--
-**student-piyush25/student-piyush25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Diploma Student — Computer Engineering  
+🚀 Aspiring AI & Data Science Engineer  
+💡 Currently building Python projects and learning Flask  
+📈 Interested in Machine Learning, NLP, and real-time apps
 
-Here are some ideas to get you started:
+## 🔧 Tech Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, Java (Basics), Flask, SQLAlchemy, Selenium  
+- Pandas, NumPy, Matplotlib  
+- Git, GitHub, VS Code
+
+## 🌐 Connect With Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/piyush-hatwar-42p6b227)
+- 📂 [GitHub Projects](https://github.com/student-piyush25)
+
+---
+🛠️ Always building. Always learning.  
+
