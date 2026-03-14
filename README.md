@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Piyush Hatwar
 
-🎓 2nd Year Student — Computer Engineering  
+🎓 Computer Engineering  
 🚀 Aspiring AI & Data Science Engineer  
 💡 Currently building Python projects and learning Flask  
 📈 Interested in Machine Learning, NLP, and real-time apps
